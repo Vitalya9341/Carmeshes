@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\RusCars\VAZ2107_POLICE\tkan"
+        "$blendtintbybasealpha" 1
+}
